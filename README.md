@@ -1,6 +1,6 @@
 # Stock Price Prediction
 
-This project aims to predict stock prices using machine learning models such as Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. The models are trained on historical stock price data to forecast future prices.
+This project aims to predict stock prices using deep learning models such as Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) networks. The models are trained on historical stock price data to forecast future prices.
 
 ## Installation
 Follow these steps to get your development environment set up:
