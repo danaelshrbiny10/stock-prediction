@@ -32,25 +32,5 @@ The application is built with the following technologies:
    - Compare the performance of the CNN and LSTM models.
    - Plot the actual vs. predicted closing prices.
 
-## Directory Structure
-stock-price-prediction/
-│
-├── data/
-│ └── AAPL_use.csv
-│
-├── notebooks/
-│ ├── CNN_Model.ipynb
-│ ├── LSTM_Model.ipynb
-|
-├── requirements/
-│ ├── base.txt
-|
-|├── paper/
-│ ├── CAAI_Trans_on_Intel_Tech-2021-Mukherjee-Stock_market_prediction_using_deep_learning_algorithms.pdf
-|
-├── README.md
-├── requirements.txt
-└── LICENSE
-
 ## License Information
 This project is licensed under the MIT License. For more details, see the [LICENSE file](./LICENSE).
